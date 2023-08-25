@@ -40,5 +40,5 @@
          "protocol":"web+progressier",
          "url":"/dashboard/?pwaprotocolredirect=%s"
       }
-   ],
+   ]
 }
