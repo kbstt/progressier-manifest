@@ -38,7 +38,7 @@
       },
       {
          "protocol":"web+progressier",
-         "url":/dashboard/?pwaprotocolredirect=%s"
+         "url":"/dashboard/?pwaprotocolredirect=%s"
       }
    ],
 }
