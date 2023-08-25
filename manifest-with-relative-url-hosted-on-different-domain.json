@@ -7,11 +7,11 @@
    "orientation":"portrait",
    "description":"Get a universal installation link for your web app, send push notifications, add offline capabilities. No code to write. No app store hassles.",
    "start_url":"/dashboard/",
-   "scope":"/dashboard/",
+   "scope":"/",
    "id":"/dashboard/",
    "shortcuts":[
       {
-         "name":"New Push Campaign",
+         "name":"Shortcut 1",
          "url":"/dashboard/push-campaigns?composer=new",
          "icons":[
             {
@@ -21,7 +21,7 @@
          ]
       },
       {
-         "name":"Import Review",
+         "name":"Shortcut 2",
          "url":"/dashboard/reviews?openreviewimport=true",
          "icons":[
             {
