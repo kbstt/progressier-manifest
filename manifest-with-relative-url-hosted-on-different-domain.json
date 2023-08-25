@@ -9,6 +9,20 @@
    "description":"This is a test manifest hosted on a different domain than the app",
    "start_url":"/dashboard/",
    "id":"/dashboard/",
+   icons: [
+      {
+         "src":"https://firebasestorage.googleapis.com/v0/b/pwaa-8d87e.appspot.com/o/eWYX0PrgnbmJTIRgmYiH%2FVnzouxfZZNifLbV.png?alt=media&token=fe1a23ee-9c0d-4334-b72a-871508518030",
+         "sizes":"512x512",
+         "type":"image/png",
+         "purpose":"maskable"
+      },
+      {
+         "src":"https://firebasestorage.googleapis.com/v0/b/pwaa-8d87e.appspot.com/o/eWYX0PrgnbmJTIRgmYiH%2FVnzouxfZZNifLbV.png?alt=media&token=fe1a23ee-9c0d-4334-b72a-871508518030",
+         "sizes":"512x512",
+         "type":"image/png",
+         "purpose":"any"
+      }
+   ],
    "shortcuts":[
       {
          "name":"Shortcut 1",
