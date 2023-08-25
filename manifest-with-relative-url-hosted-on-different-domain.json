@@ -5,9 +5,9 @@
    "theme_color":"#000027",
    "display":"standalone",
    "orientation":"portrait",
+   "scope":"/",
    "description":"This is a test manifest hosted on a different domain than the app",
    "start_url":"/dashboard/",
-   "scope":"/",
    "id":"/dashboard/",
    "shortcuts":[
       {
