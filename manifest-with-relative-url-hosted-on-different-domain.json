@@ -12,7 +12,7 @@
    "shortcuts":[
       {
          "name":"Shortcut 1",
-         "url":"/dashboard/push-campaigns?composer=new",
+         "url":"/shortcut1",
          "icons":[
             {
                "src":"https://progressier.com/assets/img/icons/bell.png?v=192",
@@ -22,7 +22,7 @@
       },
       {
          "name":"Shortcut 2",
-         "url":"/dashboard/reviews?openreviewimport=true",
+         "url":"/shortcut2",
          "icons":[
             {
                "src":"https://progressier.com/assets/img/icons/award.png?v=192",
